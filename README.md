@@ -3,7 +3,7 @@
 A developer collaboration and project discovery platform. Developers can create profiles,
 showcase projects, publish technical posts, comment, and follow each other.
 
-This repository is the **Spring Boot backend**. The React frontend is in a separate repository: [link to your frontend repo].
+This repository is the **Spring Boot backend**. The React frontend is in a separate repository:  https://github.com/infinitylimits/nexusforge-backend.git
 
 ## Tech stack
 Java 21, Spring Boot 4, Spring Security, JWT (jjwt), Spring Data JPA / Hibernate, MySQL, Maven,
